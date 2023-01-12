@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo2=self.webpackChunkdemo2||[]).push([[52],{52:(e,u,c)=>{function n(...e){return e.reduce(((e,u)=>e+u),0)}c.d(u,{S:()=>n})}}]);
